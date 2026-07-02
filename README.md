@@ -1,1 +1,13 @@
-# SEGURANCA-LINUX-OPS-
+Journey: Activation – Linux Security & Operations
+This repository documents my progress within the Digital Capacity Building Program. My focus is on the systematic application and validation of the following technical competencies:
+•	System Administration: File management and operating system maintenance via Command Line Interface (CLI).
+•	Operational Security: Implementation of access control policies and permissions.
+•	Data Management: Techniques for technical filtering, processing, and analysis.
+•	Laboratory Systematization: Recording of operational evidence in compliance with network requirements.
+Academic and Professional Profile
+Hirondina da Conceição Pinto Évora Lecturer | Psychologist
+My approach to this technical portfolio is grounded in a consolidated academic and professional background, guided by methodological rigor and scientific inquiry:
+•	Academic Qualifications: Ph.D. in Social Sciences (Education), Master’s in Pedagogical Supervision, Postgraduate degree in Social Research Strategies, and Licentiate degrees in Educational Psychology, Clinical Psychology, and English Studies.
+•	Professional Experience: A senior researcher and lecturer with a robust track record in the teaching-learning process across all educational levels, encompassing both national and international professional experience.
+•	Language Proficiency: Portuguese, Cape Verdean Creole, French, Spanish, and English.
+The integration of these transversal competencies into the technological domain ensures a structured and rigorous approach to system administration and information security, aligning laboratory practice with the standards of excellence that define my professional trajectory.
