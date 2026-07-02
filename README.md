@@ -1,4 +1,4 @@
-Journey: Activation – Linux Security & Operations
+Journey: Activation – Linux Security & Operations.
 This repository documents my progress within the Digital Capacity Building Program. My focus is on the systematic application and validation of the following technical competencies:
 
 System Administration: File management and operating system maintenance via Command Line Interface (CLI).
